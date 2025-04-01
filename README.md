@@ -1,20 +1,14 @@
-# Student-Grade-Tracker-using-Java
+# Student Grade Tracker App
 
 ## Overview
-A brief description of what the project does, its purpose, and its key features.
+The **Student Grade Tracker** is a Java-based application that allows students and teachers to manage and track academic performance. Users can input and update grades for various subjects and calculate the overall GPA. The app features a simple console-based user interface for easy interaction.
 
 ## Features
-- **Feature 1**: Description of the feature.
-- **Feature 2**: Description of the feature.
-- **Feature 3**: Description of the feature.
-
-(You can list as many features as needed.)
+- **Student Information Management**: Allows for storing and managing student details (e.g., name, roll number).
+- **Grade Input**: Enables input of grades for multiple subjects.
+- **Grade Update**: Provides functionality to update grades for a specific student and subject.
+- **User Interface**: Simple and intuitive console-based interface for easy interaction with the application.
 
 ## Technologies Used
-- **Technology 1**: Description of the technology.
-- **Technology 2**: Description of the technology.
-
-## Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/project-name.git
+- **Java**: The application is developed using Java, utilizing object-oriented principles to ensure modularity and ease of maintenance.
+- **Scanner**: For handling user input and interacting with the console.
