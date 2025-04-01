@@ -1,6 +1,4 @@
 # Student-Grade-Tracker-using-Java
-# Creating a README format text file
-# Project Name
 
 ## Overview
 A brief description of what the project does, its purpose, and its key features.
